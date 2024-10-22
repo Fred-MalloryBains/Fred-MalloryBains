@@ -1,5 +1,5 @@
 # 💫 About Me:
-Univeristy of leeds undergraduate <br>Studying computer science bsc <br>looking for placement oppurtunites <br>interested in data analysis, machine learning and geometric deep learning<br><br>currently working on a project integrating the Spotify API in Python and javascript<br>to create a unique way of visualising data
+University of Leeds undergraduate <br>Studying Computer Science BSc <br>Looking for placement opportunities <br>Interested in data analysis, machine learning and geometric deep learning<br><br>Currently working on a project integrating the Spotify API in Python and javascript<br>to create a unique way of visualising data
 
 
 ## 🌐 Socials:
