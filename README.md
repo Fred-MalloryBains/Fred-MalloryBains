@@ -1,5 +1,5 @@
 #  About Me:
-University of Leeds undergraduate <br>Studying Computer Science BSc <br>Looking for placement opportunities <br>Interested in data analysis, machine learning and mathematics<br><br>Currently working on a using machine learning, neural networks and natural language prcoessing to analyse football data<br>to create a unique way of visualising data
+University of Leeds undergraduate <br>Studying Computer Science BSc <br>Looking for placement opportunities <br>Interested in data, machine learning and mathematics<br><br>
 
 
 ##  Socials:
