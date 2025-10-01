@@ -1,5 +1,5 @@
 #  About Me:
-University of Leeds undergraduate <br>Studying Computer Science BSc <br>Looking for placement opportunities <br>Interested in data, machine learning and mathematics<br><br>
+University of Leeds undergraduate <br>Studying Computer Science BSc <br>Looking for placement opportunities <br>Interested in computer vision, machine learning and mathematics<br><br>
 
 
 ##  Socials:
