@@ -1,11 +1,9 @@
 #  About Me:
-University of Leeds undergraduate <br>Studying Computer Science MEng <br>Looking for placement opportunities <br>Interested in computer vision, machine learning and mathematics<br><br>
-
-
+University of Leeds 4th year student <br>Studying integrated Masters in Computer Science <br> Interested in computer vision, machine learning and low level programming <br><br>
 
 
 # Experience:
-Java, Python, C, C++, R, MYSQL
+Python, C, C++, R, MYSQL, Java 
 numpy, matplotlib, librosa, flask, scikit-learn
 
 
