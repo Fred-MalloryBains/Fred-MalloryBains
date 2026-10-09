@@ -1,6 +1,6 @@
 # Fred Mallory Bains
 
-[LinkedIn](https://linkedin.com/in/alfredmallorybains) · [Email](mailto:fredmallorybains@icloud.com)
+[LinkedIn](https://linkedin.com/in/alfredmallorybains)
 
 Final-year integrated MEng/MSc Computer Science at the University of Leeds. Focused on computer vision pipelines and low-level systems programming.
 
